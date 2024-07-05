@@ -1,2 +1,0 @@
-# Communities to Join
-

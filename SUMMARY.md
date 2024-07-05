@@ -4,7 +4,7 @@
 
 * [Welcome](README.md)
 * [Contributors & Sources](introduction/contributors-and-sources.md)
-* [Communities to Join](introduction/communities-to-join.md)
+* [Security Communities & Newsletters](introduction/security-communities-and-newsletters.md)
 
 ## Discord
 
