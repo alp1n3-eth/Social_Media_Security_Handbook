@@ -17,3 +17,8 @@
 ## Telegram
 
 * [Account Creation](telegram/account-creation.md)
+
+## Signal
+
+* [Account Creation & App Configuration](signal/account-creation-and-app-configuration.md)
+* [Create a Group Chat](signal/create-a-group-chat.md)
