@@ -9,7 +9,7 @@ Please find a visual guide on how to perform the below actions [here](https://pa
 * [ ] If you are missing permissions to do any of the things required in this list, reach out to the designated admin over all communication channels (voice, text, etc.).
 * [ ] Delete the fake announcement message.
   * [ ] Ban the user who posted it.
-* [ ] Contact all server staff members via an alternative to Discord and have them change their passwords.
+* [ ] Contact all server staff members via an alternative to Discord and have them change their passwords from a mobile device (phone or tablet).
   * [ ] Remove roles from all server staff who are not on and/or have not confirmed that their password has now been changed.
     * [ ] Once their passwords have been confirmed changed, give back any roles that were removed.
 * [ ] Have the admin delete all web hooks accessible via "Server Settings -> Integrations -> Webhooks"
