@@ -2,7 +2,9 @@
 
 ## The Server is Actively Being Hacked
 
-[@Jon\_HQ Twitter Post](https://twitter.com/Jon\_HQ/status/1502751082220457986?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1502751082220457986%7Ctwgr%5E1fc60407cf4b9cd8a0b879d6b0e11ab2430bfccb%7Ctwcon%5Es1\_c10\&ref\_url=https%3A%2F%2Fjonhq.com%2Ftweet-threads%2F)
+Source: [@Jon\_HQ Twitter Post](https://twitter.com/Jon\_HQ/status/1502751082220457986?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1502751082220457986%7Ctwgr%5E1fc60407cf4b9cd8a0b879d6b0e11ab2430bfccb%7Ctwcon%5Es1\_c10\&ref\_url=https%3A%2F%2Fjonhq.com%2Ftweet-threads%2F)
+
+Please find a visual guide on how to perform the below actions [here](https://paragraph.xyz/@alp1n3.eth/common-discord-incident-response-actions).
 
 * [ ] If you are missing permissions to do any of the things required in this list, reach out to the designated admin over all communication channels (voice, text, etc.).
 * [ ] Delete the fake announcement message.
