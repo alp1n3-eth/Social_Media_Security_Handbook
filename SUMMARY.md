@@ -9,6 +9,7 @@
 ## Discord
 
 * [Account Creation](discord/account-creation.md)
+* [Incident Response Checklist](discord/incident-response-checklist.md)
 
 ## Twitter / X
 
