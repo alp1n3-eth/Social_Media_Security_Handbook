@@ -9,5 +9,13 @@
   * [ ] Ban the user who posted it.
 * [ ] Contact all server staff members via an alternative to Discord and have them change their passwords.
   * [ ] Remove roles from all server staff who are not on and/or have not confirmed that their password has now been changed.
+    * [ ] Once their passwords have been confirmed changed, give back any roles that were removed.
 * [ ] Have the admin delete all web hooks accessible via "Server Settings -> Integrations -> Webhooks"
-*
+* [ ] Check Discord audit logs for any changes to the following:
+  * [ ] Channel.
+  * [ ] Role.
+  * [ ] User Permissions.
+  * [ ] New Bots.
+* [ ] Check if the vanity URL has been changed.
+* [ ] Check each bot under accessible via "Integrations -> Bots and Apps" for any new web hooks.
+* [ ] Once this checklist has been finished, reach out to a Discord auditor to come in and double check everything.
