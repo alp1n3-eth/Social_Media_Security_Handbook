@@ -5,6 +5,7 @@
 * [Welcome](README.md)
 * [Contributors & Sources](introduction/contributors-and-sources.md)
 * [Security Communities & Newsletters](introduction/security-communities-and-newsletters.md)
+* [Know Your Team](introduction/know-your-team.md)
 
 ## Discord
 
