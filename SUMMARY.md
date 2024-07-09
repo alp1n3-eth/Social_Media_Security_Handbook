@@ -23,3 +23,15 @@
 
 * [Account Creation & App Configuration](signal/account-creation-and-app-configuration.md)
 * [Create a Group Chat](signal/create-a-group-chat.md)
+
+## Matrix
+
+* [Account Creation](matrix/account-creation.md)
+
+## Notion
+
+* [Account Creation](notion/account-creation.md)
+
+## IRC
+
+* [Account Creation](irc/account-creation.md)
