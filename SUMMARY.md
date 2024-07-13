@@ -10,6 +10,7 @@
 ## Discord
 
 * [Account Creation](discord/account-creation.md)
+* [Necessary Bots](discord/necessary-bots.md)
 * [Incident Response Checklist](discord/incident-response-checklist.md)
 
 ## Twitter / X
