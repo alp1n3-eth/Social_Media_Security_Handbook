@@ -9,7 +9,7 @@
 
 ## Discord
 
-* [Account Creation](discord/account-creation.md)
+* [Cold Admin](discord/cold-admin.md)
 * [Necessary Bots](discord/necessary-bots.md)
 * [Incident Response Checklist](discord/incident-response-checklist.md)
 * [Server Setup](discord/server-setup.md)
