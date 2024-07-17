@@ -13,6 +13,7 @@
 * [Necessary Bots](discord/necessary-bots.md)
 * [Incident Response Checklist](discord/incident-response-checklist.md)
 * [Server Setup](discord/server-setup.md)
+* [Auditor Self Checklist](discord/auditor-self-checklist.md)
 
 ## Twitter / X
 
