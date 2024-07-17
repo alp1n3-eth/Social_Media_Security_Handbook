@@ -3,13 +3,15 @@ cover: ../.gitbook/assets/DiscordLogo.jpg
 coverY: 0
 ---
 
-# Cold Admin
+# Cold Admin / Announcement Account
 
 ## Concept
 
 Jon\_HQ created the "Cold Server Owner Account" guide and has updated it to Version v.3. Refer to the link at the bottom for the original source image.
 
 The idea behind a "cold server owner account" is that it is impossible to phish. It's impossible to phish, because it isn't used regularly, and is only utilized when specific actions are needed, and those actions are only performed on a known-good device. These accounts will not interact with anyone (via DMs or otherwise) in the day-to-day actions of the server.&#x20;
+
+
 
 ## Setup
 
@@ -45,5 +47,5 @@ Use this cold administrator account in order to make changes such as adding bots
 | Author                                 | URL                                                                                                              |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [Jon\_HQ](https://twitter.com/Jon\_HQ) | [https://twitter.com/jon\_hq/status/1600188358616969216](https://twitter.com/jon\_hq/status/1600188358616969216) |
-|                                        |                                                                                                                  |
+| Jon\_HQ                                | [https://twitter.com/Jon\_HQ/status/1549077129916125184](https://twitter.com/Jon\_HQ/status/1549077129916125184) |
 |                                        |                                                                                                                  |
